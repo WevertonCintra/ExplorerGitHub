@@ -1,3 +1,5 @@
+### [Live Demo](https://mystifying-brahmagupta-02a4aa.netlify.app/)
+
 ![Screenshot 1](src/assets/img/1.png)
 ![Screenshot 2](src/assets/img/2.png)
 ![Screenshot 3](src/assets/img/3.png)
@@ -6,8 +8,8 @@
 
 1. Faça um clone desse repositório;
 2. Entre na pasta rodando `cd ExplorerGithub`;
-3. Rode `yarn` para instalar as dependências;
-4. Rode `yarn start`;
+3. Rode `yarn` ou `npm install` para instalar as dependências;
+4. Rode `yarn start` ou `npm run start`;
 
 # Contribua 😁
 
