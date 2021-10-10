@@ -1,4 +1,4 @@
-### [Live Demo](https://mystifying-brahmagupta-02a4aa.netlify.app/)
+### [Live Demo](https://explore-repository-github.netlify.app/)
 
 ![Screenshot 1](src/assets/img/1.png)
 ![Screenshot 2](src/assets/img/2.png)
